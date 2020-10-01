@@ -3,9 +3,7 @@
 
 import tkinter as tk
 from threading import Lock
-from tkinter import TOP, BOTH, END, INSERT, SEL, SEL_FIRST, SEL_LAST
-from tkinter import messagebox
-from tkinter.scrolledtext import ScrolledText
+from tkinter import *
 
 from eval_global import ext_eval_global
 
